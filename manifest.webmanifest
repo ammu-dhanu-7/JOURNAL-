@@ -1,0 +1,18 @@
+{
+  "name": "Dear Diary \u2013 Premium Life Organizer",
+  "short_name": "Dear Diary",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eee6d9",
+  "theme_color": "#eee6d9",
+  "description": "A private diary and personal life organizer.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
